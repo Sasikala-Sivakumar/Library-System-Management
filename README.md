@@ -482,7 +482,7 @@ GROUP BY
 ## Reports
 
 - **Database Schema**: Detailed table structures and relationships.
-- **Data Analysis**: Insights into book categories, employee salaries, member registration trends, and issued books.
+- **Data Analysis**: Insights into book categories, revenues, member registration trends, and issued books.
 - **Summary Reports**: Aggregated data on high-demand books and employee performance.
 
 ## Conclusion
